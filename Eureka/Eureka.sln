@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eureka.CSharp.Plugins", "Eureka.CSharp.Plugins.csproj", "{D5C21899-DF15-69A7-F7F6-4E2CF9ED340E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eureka.CSharp", "Eureka.CSharp.csproj", "{5D1625D4-4BA1-06C0-020D-CB89A03B7222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eureka.CSharp.Editor", "Eureka.CSharp.Editor.csproj", "{CF94E205-B766-3004-82FB-2593079BC449}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5C21899-DF15-69A7-F7F6-4E2CF9ED340E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C21899-DF15-69A7-F7F6-4E2CF9ED340E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C21899-DF15-69A7-F7F6-4E2CF9ED340E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C21899-DF15-69A7-F7F6-4E2CF9ED340E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D1625D4-4BA1-06C0-020D-CB89A03B7222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D1625D4-4BA1-06C0-020D-CB89A03B7222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D1625D4-4BA1-06C0-020D-CB89A03B7222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D1625D4-4BA1-06C0-020D-CB89A03B7222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF94E205-B766-3004-82FB-2593079BC449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF94E205-B766-3004-82FB-2593079BC449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF94E205-B766-3004-82FB-2593079BC449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF94E205-B766-3004-82FB-2593079BC449}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
